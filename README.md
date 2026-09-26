@@ -105,7 +105,7 @@ V1.1.2版本以下
  
 （16） 添加潇洒 接口： https://raw.githubusercontent.com/qist/tvbox/master/xiaosa/api.json 或者 https://qist.wyfc.qzz.io/xiaosa/api.json
  
-（17）添加饭太硬 接口 https://raw.githubusercontent.com/qist/tvbox/master/fty.json 或者 https://qist.wyfc.qzz.io/fty.json
+（17）添加饭太硬 接口 https://raw.githubusercontent.com/qist/tvbox/master/fty.json 或者 https://qist.wyfc.qzz.io/fty.json or https://gh-proxy.org/https://raw.githubusercontent.com/ajax79/tvbox/master/fty.json
 
 2. 网盘授权配置：
 选择 《 配置 | 中心 》进行配置
